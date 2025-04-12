@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbhupesh1008&label=Profile%20views&color=0e75b6&style=flat" alt="mrbhupesh1008" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.bhupesh.com.np](www.bhupesh.com.np)
+- 👨‍💻 All of my projects are available at [www.bhupesh.com.np](https://www.bhupesh.com.np)
 
 - 📫 How to reach me **mr.bhupesh359@gmail.com**
 
