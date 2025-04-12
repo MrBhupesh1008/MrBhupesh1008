@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Bhupesh Budha</h1>
 <h3 align="center">Learning full-stack development, one commit at a time.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbhupesh1008&label=Profile%20views&color=0e75b6&style=flat" alt="mrbhupesh1008" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbhupesh1008&label=Profile%20views&color=120052&style=flat&abbreviated=true" alt="mrbhupesh1008" /> </p>
 
 - 👨‍💻 All of my projects are available at [www.bhupesh.com.np](https://www.bhupesh.com.np)
 
