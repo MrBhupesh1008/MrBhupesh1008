@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Arise !](https://www.bhupesh.com.np/2024/06/first-blog-post.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
