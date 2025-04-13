@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "http://bhupesh.com.np/feeds/posts/default?alt=rss"
+          feed_list: "http://www.bhupesh.com.np/feeds/posts/default?alt=rss"
